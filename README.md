@@ -34,7 +34,7 @@ Thank you for taking the time to read my About Me section. If you have any quest
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-https://img.shields.io/twitter/url?label=Cesar%20Eduardo&style=social&url=https%3A%2F%2Ftwitter.com%2FCesarEd43166481
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -43,7 +43,7 @@ https://img.shields.io/twitter/url?label=Cesar%20Eduardo&style=social&url=https%
 <a href="mailto:cesareduardomucha@hotmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
+<img src="Twitter URL" src="https://img.shields.io/twitter/url?label=Cesar%20Eduardo&style=social&url=https%3A%2F%2Ftwitter.com%2FCesarEd43166481">
 -----
 Credits: [Cesar Eduardo Munoz Chavez](https://github.com/DreamnovaCesar)
 
