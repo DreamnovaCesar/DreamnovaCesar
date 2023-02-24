@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif" alt="animated" />
+</p>
+
 <!-- ## 👋 &nbsp;Hey there! I'm Cesar Eduardo-->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -14,7 +18,6 @@ In my free time, I enjoy exploring new technologies, participating in hackathons
 Thank you for taking the time to read my About Me section. If you have any questions or would like to connect, please don't hesitate to reach out!
 
 ### 🛠 &nbsp;Tech Stack
-
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -34,13 +37,6 @@ Thank you for taking the time to read my About Me section. If you have any quest
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align="center">
-  ![programming](https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif)
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif" alt="animated" />
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -51,6 +47,7 @@ Thank you for taking the time to read my About Me section. If you have any quest
 <a href="mailto:cesareduardomucha@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="mailto:cesareduardomucha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 -----
 Credits: [Cesar Eduardo Munoz Chavez](https://github.com/DreamnovaCesar)
