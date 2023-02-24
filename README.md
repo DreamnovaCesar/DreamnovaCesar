@@ -16,6 +16,7 @@ Thank you for taking the time to read my About Me section. If you have any quest
 ### 🛠 &nbsp;Tech Stack
 
 
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -33,7 +34,7 @@ Thank you for taking the time to read my About Me section. If you have any quest
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+![programming](https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
