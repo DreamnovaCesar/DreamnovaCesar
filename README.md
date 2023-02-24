@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif" alt="animated" />
-</p>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Cesar Eduardo-->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -16,6 +12,10 @@ Currently, I am practicing and improving my skills in Frontend development, spec
 In my free time, I enjoy exploring new technologies, participating in hackathons, and collaborating with other developers on open-source projects. I also love traveling and learning about different cultures.
 
 Thank you for taking the time to read my About Me section. If you have any questions or would like to connect, please don't hesitate to reach out!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif" alt="animated" />
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
