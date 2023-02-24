@@ -3,12 +3,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+Hello everyone! My name is Cesar Eduardo, and I'm a recent Master's graduate in Artificial Intelligence. During my studies, I focused on mammogram classification and diagnosis. I have experience with both classical and modern methods for this classification, including machine learning, deep learning, and neural networks.
+
+Throughout my academic journey, I have become proficient in several programming languages, including Python, JavaScript, Java, C, C++, and C#. I have used these languages to develop projects and solve problems in the fields of automation and artificial intelligence. I am confident in my ability to work with automation libraries, and I enjoy using them to make my work more efficient.
+
+Currently, I am practicing and improving my skills in Frontend development, specifically with ReactJS. I am also familiarizing myself with backend technologies like Django and FASTAPI. I believe that combining these technologies can lead to more efficient and user-friendly applications.
+
+In my free time, I enjoy exploring new technologies, participating in hackathons, and collaborating with other developers on open-source projects. I also love traveling and learning about different cultures.
+
+Thank you for taking the time to read my About Me section. If you have any questions or would like to connect, please don't hesitate to reach out!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,13 +34,13 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-
+https://img.shields.io/twitter/url?label=Cesar%20Eduardo&style=social&url=https%3A%2F%2Ftwitter.com%2FCesarEd43166481
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/CesarEd43166481"><img src="https://img.shields.io/twitter/url label=Cesar%20Eduardo&style=social&url=https%3A%2F%2Ftwitter.com%2FCesarEd43166481"/></a>
 <a href="mailto:cesareduardomucha@hotmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
