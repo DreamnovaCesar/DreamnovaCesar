@@ -39,7 +39,7 @@ Thank you for taking the time to read my About Me section. If you have any quest
 </p>
 
 <p align="center">
-  <img src="[demo.gif](https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif)" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif" alt="animated" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
