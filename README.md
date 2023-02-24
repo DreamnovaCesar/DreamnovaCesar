@@ -34,11 +34,11 @@ Thank you for taking the time to read my About Me section. If you have any quest
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-![programming](https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif)
+<div align="center">![programming](https://user-images.githubusercontent.com/90935672/221291314-dbcc6a26-3541-4ced-90a4-8d3d7132a1be.gif)</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/cesar-eduardo-mu%C3%B1oz-chavez-a00674186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/CesarEd43166481"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/cesareduardo.munozchavez/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
